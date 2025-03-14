@@ -48,7 +48,7 @@ const natoAlphabet = {
   "(": "\"left parenthesis\"",
   ")": "\"right parenthesis\"",
   "*": "asterisk",
-  "+": "\plus sign\"",
+  "+": "\"plus sign\"",
   ",": "comma",
   "-": "hyphen",
   ".": "period",
