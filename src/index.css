@@ -8,5 +8,12 @@ html{
 }
 body{
   font-size: 1.6rem;
-  font-family: 
+  font-family: var(--primary-font);
+  background-color: var(--prime-color);
+}
+:root{
+  --primary-font: "Black Ops One", system-ui;
+  --prime-color: #5D6532;
+  --primary-color: #FFFFFFCC;
+  --secondary-color: #333333;
 }

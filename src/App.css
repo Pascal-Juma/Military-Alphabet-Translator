@@ -1,0 +1,42 @@
+.nato-section{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 2rem;
+}
+.nato-title{
+  margin-top: 8rem;
+  font-size: 3.5rem;
+  color: var(--primary-color);
+  letter-spacing: .3rem;
+}
+.nato-input{
+  width: 50rem;
+  height: 6rem;
+  padding: 1.5rem;
+  font-size: 2rem;
+  font-family: (--primary-font);
+  border-radius: .8rem;
+  border: none;
+}
+.nato-input:focus{
+  outline: var(--primary-color)
+}
+.nato-equivalent{
+  font-size: 2.2rem;
+  color: var(--primary-color);
+  letter-spacing: .1rem;
+  margin-inline: 15rem;
+  flex-wrap: wrap;
+  display: flex;
+  line-height: 1.5;
+  gap: 1rem;
+}
+.white{
+  color: var(--primary-color)
+}
+.grey{
+  color:  var(--secondary-color);
+  font-weight: 700;
+}
